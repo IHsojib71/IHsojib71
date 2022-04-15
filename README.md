@@ -1,22 +1,22 @@
 I am a passionate programmer and a full-stack web developer with a curiosity about learning new things.
  
-# My Programming Skills
-=> HTML
-=> CSS
+My Programming Skills
+* HTML
+* CSS
 => JavaScript
 => JQuery
 => MySQL
  
-# Also Familiar with
+Also Familiar with
 => C
 => C++
 => Java
  
-# I also know
+I also know
  
 => WordPress CMS
  
-# My Software Skills
+My Software Skills
 
 => Android Studio
 => Code Blocks
@@ -27,7 +27,7 @@ I am a passionate programmer and a full-stack web developer with a curiosity abo
  
  
  
-# And I am currently Working On
+And I am currently Working On
 => Laravel Framework
  
 
