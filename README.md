@@ -1,16 +1,13 @@
-### Hi there 👋
+I am a passionate programmer and a full-stack web developer with a curiosity about learning new things. I have learned these languages over the past few years
 
-<!--
-**IHsojib71/IHsojib71** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+=> HTML
+=> CSS
+=> JavaScript
+=> JQuery
+=> MySQL
 
-Here are some ideas to get you started:
+I also know 
+=> WordPress CMS
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+And I currently Working On
+=> Laravel Framework
