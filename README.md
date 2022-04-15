@@ -1,9 +1,9 @@
 I am a passionate programmer and a full-stack web developer with a curiosity about learning new things.
 
 My Programming Skills
-HTML
-CSS
-JavaScript
+-HTML
+-CSS
+-JavaScript
 JQuery
 MySQL
 
