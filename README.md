@@ -5,6 +5,7 @@ My Programming Skills
 * CSS
 * JavaScript
 * JQuery
+* Bootstrap
 * MySQL
  
 Also Familiar with
