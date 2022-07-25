@@ -16,15 +16,7 @@ Also Familiar with
 I also know
  
 * WordPress CMS
- 
-My Software Skills
 
-* Android Studio
-* Code Blocks
-* VS Code
-* Microsoft Office Applications
-* Adobe XD
-* Filmora Video Editor
  
  
  
