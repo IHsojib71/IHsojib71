@@ -22,5 +22,6 @@ I also know
  
 And I am currently Working On
 * Laravel Framework
+* Vue JS
  
 
