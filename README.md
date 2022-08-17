@@ -7,21 +7,24 @@ My Programming Skills
 * JQuery
 * Bootstrap
 * MySQL
+* PHP
+
+Frameworks Skill
+* Laravel
+* Vue JS
+
+I also know
+ 
+* WordPress CMS
  
 Also Familiar with
 * C
 * C++
 * Java
  
-I also know
- 
-* WordPress CMS
+
 
  
  
- 
-And I am currently Working On
-* Laravel Framework
-* Vue JS
  
 
