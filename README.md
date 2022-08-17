@@ -5,13 +5,13 @@ My Programming Skills
 * CSS
 * JavaScript
 * JQuery
-* Bootstrap
 * MySQL
 * PHP
 
 Framework Skills
 * Laravel
 * Vue JS
+* Bootstrap
 
 I also know
  
