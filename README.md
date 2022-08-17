@@ -9,7 +9,7 @@ My Programming Skills
 * MySQL
 * PHP
 
-Frameworks Skill
+Framework Skills
 * Laravel
 * Vue JS
 
