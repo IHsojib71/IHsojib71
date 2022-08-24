@@ -1,4 +1,4 @@
-I am a passionate programmer and a full-stack developer with a curiosity about learning new things.
+I am a passionate programmer and a full-stack developer with a curiosity for learning new things.
  
 My Programming Skills
 * HTML
