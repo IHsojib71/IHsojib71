@@ -11,6 +11,7 @@ My Programming Skills
 Framework Skills
 * Laravel
 * Vue JS
+* Inertia JS
 * Bootstrap
 
 I also know
