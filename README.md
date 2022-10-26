@@ -12,6 +12,7 @@ Framework Skills
 * Laravel
 * Vue JS
 * Inertia JS
+* Vuetify
 * Bootstrap
 
 I also know
