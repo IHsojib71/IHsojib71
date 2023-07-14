@@ -14,6 +14,7 @@ Framework Skills
 * Inertia JS
 * Vuetify
 * Bootstrap
+* Tailwind CSS
 
 I also know
  
